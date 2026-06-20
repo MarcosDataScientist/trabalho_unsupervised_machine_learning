@@ -19,3 +19,5 @@ env/
 .vscode/
 
 corpus_wikipedia_longos.json
+diagnostico_clustering.md
+validacao_estrutura_clusters.ipynb
